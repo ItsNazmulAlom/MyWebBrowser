@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#B1A3AA</color>
+    <color name="colorPrimaryDark">#C4302B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="youtube">#c4302b</color>
+    <color name="facebok">#3b5998</color>
+    <color name="antything">#444</color>
 </resources>
